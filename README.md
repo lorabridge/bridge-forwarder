@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project is **deprecated** and was superseded by [LoRaBridge2](https://github.com/lorabridge2). The replacement for **this** repository is [here](https://github.com/lorabridge2/bridge-forwarder).
+
 # Bridge Forwarder
 
 This repository is part of the [LoRaBridge](https://github.com/lorabridge/lorabridge) project.
